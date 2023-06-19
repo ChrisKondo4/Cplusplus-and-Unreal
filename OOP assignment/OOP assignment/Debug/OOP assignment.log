@@ -1,0 +1,5 @@
+﻿  Dog.cpp
+  OOP assignment.cpp
+C:\Users\PC\Desktop\Basic_C++_Programs\OOP assignment\OOP assignment\OOP assignment.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  OOP assignment.vcxproj -> C:\Users\PC\Desktop\Basic_C++_Programs\OOP assignment\Debug\OOP assignment.exe
