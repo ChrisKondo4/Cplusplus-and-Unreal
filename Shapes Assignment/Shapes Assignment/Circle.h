@@ -8,6 +8,6 @@ class Circle :
     double Radius;
     double pi = 3.14;
     void getArea() {
-        std::cout << "The area of your circle is: " + (Radius * pi);
+        std::cout << "The area of your circle is: " << pow(Radius, pi);
     }
 };
